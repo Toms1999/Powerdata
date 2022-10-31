@@ -1,0 +1,2 @@
+#部署mysql的密码的设定
+mysql_password: root
